@@ -7,9 +7,9 @@ module.exports = {
 
   nodes: [
     {
-      host: "172.96.140.62", // Your lavalink host address 
+      host: "fi8.bot-hosting.net", // Your lavalink host address 
       password: "sameer", // Your lavalink password
-      port: 8561, // Your lavalink port
+      port: 20306, // Your lavalink port
       identifier: "Node", // Name for your lavalink
       secure: false, // set to true if your lavalink has SSL
       reconnectTimeout: 300000,
